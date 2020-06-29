@@ -8,7 +8,7 @@ The code is pretty simple:
 * import the necessary libraries
 * set the scroll phat settings that won't change
 * then in the forever loop:
-* get the current date
+  * get the current date
 * put the date you're counting down to into datetime format 
 * work out the delta between the two
 * add 1 to get the number of sleeps required
