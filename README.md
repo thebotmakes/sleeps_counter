@@ -1,7 +1,7 @@
 ## sleeps_counter
 # How many sleep is it until &lt;x>?
 
-With my daughter turning 4 the question of how many sleeps it was until her birthday has become a daily ongoing concern.  She is also just learning her numbers, and we're trying to encourage her in that.  So as usual I turned to technology to take the strain!  I had a Pimoroni scroll hat sitting around that I'd got in a sale a while ago, and of course the Raspberry Pi Zero W is ideal for this kind of application.
+With my daughter turning 4 the question of how many sleeps it is until her birthday has become a daily ongoing concern.  She is also just learning her numbers, and we're trying to encourage her in that.  So as usual I turned to technology to take the strain!  I had a Pimoroni scroll hat sitting around that I'd got in a sale a while ago, and of course the Raspberry Pi Zero W is ideal for this kind of application.
 
 The code is pretty simple:
 
