@@ -5,7 +5,7 @@ import scrollphat
 
 
 scrollphat.set_brightness(2)
-scrollphat.set_rotate(True) #I set this as true as on the zero usb cable meant to set it level message was upside down 
+scrollphat.set_rotate(True) #to sit the zero flat with the usb cable on the top you have to set this as true to rotate the message
 
 while True:
     now = datetime.datetime.now()
